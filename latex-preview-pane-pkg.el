@@ -1,4 +1,2 @@
-(define-package "latex-preview-pane" "20151021" "Makes LaTeX editing less painful by providing a updatable preview pane" (quote nil))
-
-
-
+;;; Generated package description from latex-preview-pane-20151021/latex-preview-pane.el  -*- no-byte-compile: t -*-
+(define-package "latex-preview-pane" "20151021" "Makes LaTeX editing less painful by providing a updatable preview pane" 'nil :authors '(("John L. Singleton" . "jsinglet@gmail.com")) :maintainer '("John L. Singleton" . "jsinglet@gmail.com") :keywords '("latex" "preview") :url "http://www.emacswiki.org/emacs/LaTeXPreviewPane")
